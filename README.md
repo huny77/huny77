@@ -45,5 +45,5 @@
 ### 📔 Algorithm Solved
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjoi77)](https://solved.ac/hanjoi77) 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjoi77)](https://solved.ac/hanjoi77)
 
